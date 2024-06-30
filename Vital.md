@@ -1,2 +1,3 @@
 # Vital
-
+## albums
+[[Sins Died]]
